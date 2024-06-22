@@ -2,6 +2,11 @@
 
 Hello, I'm Luis Miguel Atienza, an aspiring worker in programming and design. My main works are graphic designing, front-end development, and game art designs. I do art projects and designs on Canva, Adobe Creative Suite/InDesign, and Clip Studio Paint. I use Adobe Premiere Pro/Photoshop, Unity, Unreal Engine, and Visual Studio Code to edit front-end websites and graphic designing.
 
+[![luismiguelatienza's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismiguelatienza)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 <!--
 **luismiguelatienza/luismiguelatienza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
