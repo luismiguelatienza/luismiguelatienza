@@ -1,8 +1,8 @@
 ### Hi there 👋, Luis Miguel Atienza
-#### Graphic Design and Game Development
-![Graphic Design and Game Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNAIDR4m3o8CwaVo1dov_zkCr-5DQ4NlLcdA&s)
+#### Graphic Design and Web Development
+![Graphic Design and Web Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNAIDR4m3o8CwaVo1dov_zkCr-5DQ4NlLcdA&s)
 
-Hello, I'm Luis Miguel Atienza, an aspiring worker in programming and design. My main works are graphic designing, front-end development, and game art designs. I do art projects and designs on Canva, Adobe Creative Suite/InDesign, and Clip Studio Paint. I use Adobe Premiere Pro/Photoshop, Unity, Unreal Engine, and Visual Studio Code to edit front-end websites and graphic designing.
+Hello, I'm Luis Miguel Atienza, an aspiring worker in programming and design. My main works are graphic designing, front-end development, and web developing. I do art projects and designs on Canva, Adobe Creative Suite, and Clip Studio Paint. I use Adobe Premiere Pro/Photoshop, XAMPP, Visual Studio, and Visual Studio Code to edit front-end websites.
 
 Skills: REACT / JS / HTML / CSS / Adobe Creative Suite / Premiere Pro / Photoshop / Canva / Clip Studio Paint
 
