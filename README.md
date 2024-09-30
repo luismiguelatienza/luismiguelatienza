@@ -6,7 +6,7 @@ Hello, I'm Luis Miguel Atienza, an aspiring worker in programming and design. My
 
 Skills: REACT / JS / HTML / CSS / Adobe Creative Suite / Premiere Pro / Photoshop / Canva / Clip Studio Paint
 
-You can also visit me at my other design portfolio: [(https://luismiguelatienza1.wixsite.com/my-site)]
+You can also visit me at my other portfolio in Graphic Design: https://luismiguelatienza1.wixsite.com/my-site
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luismiguelatienza)](https://github.com/anuraghazra/github-readme-stats)
 
 
