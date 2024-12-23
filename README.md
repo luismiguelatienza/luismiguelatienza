@@ -2,7 +2,7 @@
 #### Graphic Design and Web Development
 ![Graphic Design and Web Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNAIDR4m3o8CwaVo1dov_zkCr-5DQ4NlLcdA&s)
 
-Hello, I'm Luis Miguel Atienza, an aspiring worker in programming and design marketing. My main works are graphic designing, front-end development, digital marketing, and web development. I do art projects and designs on Canva, Adobe Creative Suite, and Clip Studio Paint. I use Adobe Premiere Pro/Photoshop, MySQL, Javascript, XAMPP, Visual Studio, and Visual Studio Code to edit front-end websites.
+Hello, I'm Luis Miguel Atienza, an aspiring worker in programming and design marketing. My main works are graphic designing, front-end development, digital marketing, and web development. I do art projects and designs on Wix, Canva, Adobe Creative Suite, and Clip Studio Paint. I use Adobe Premiere Pro/Photoshop, MySQL, Javascript, XAMPP, Visual Studio, and Visual Studio Code to edit front-end websites.
 
 Skills: REACT / JS / HTML / CSS / Adobe Creative Suite / Premiere Pro / Photoshop / Canva / Clip Studio Paint
 
