@@ -1,8 +1,8 @@
 ### Hi there 👋, Luis Miguel Atienza
-#### Graphic Design and Web Development
+#### Web Development
 ![Graphic Design and Web Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNAIDR4m3o8CwaVo1dov_zkCr-5DQ4NlLcdA&s)
 
-Hello, I'm Luis Miguel Atienza, an aspiring worker in programming and game development.
+Hello, I'm Luis Miguel Atienza, an aspiring worker in programming.
 
 Skills: REACT / JS / HTML / CSS / Python / SQL
 
