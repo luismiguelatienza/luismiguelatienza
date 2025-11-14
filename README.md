@@ -1,4 +1,4 @@
-### Hi there 👋, Luis Miguel Atienza
+### Luis Miguel Atienza
 #### Web Development
 ![Graphic Design and Web Development](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNAIDR4m3o8CwaVo1dov_zkCr-5DQ4NlLcdA&s)
 
